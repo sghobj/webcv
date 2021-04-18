@@ -1,0 +1,92 @@
+/*.hobbies-cards {
+    margin-top: 1rem;
+
+}
+
+.card-div {
+    !*
+    background-color: #ffd384;
+    *!
+    border-style: solid;
+}
+
+
+
+.section-title{
+    font-family: Caveat;
+    margin-top: 1rem;
+    padding-left: 1rem;
+    border-radius: 50%;
+    text-align: center;
+}
+
+
+.details-section {
+    font-family: Caveat;
+}
+
+Card img {
+    margin: 30px 20px 0 0;
+}*/
+
+.circle-img {
+    border-radius: 50%;
+    border: 7px solid #fff;
+    /*border-color: black; */
+    width: 15rem;
+    height: 15rem;
+}
+
+
+
+.card {
+    border-radius: 25px;
+    position: relative;
+    padding: 0px 15px;
+    background-color: #dfe6e9;
+    /*margin: 50px 0;*/
+    height: 30rem;
+    width: 100%;
+    box-shadow: 0 2px 5px #ccc;
+    text-align: justify;
+}
+
+.top {
+    border-radius: 25px 25px 0 0;
+    height: 15rem;
+    width: 100%;
+    background-color: #dfe6e9;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+}
+
+
+
+.card img {
+    /*margin: 30px 20px 0 0;*/
+}
+
+.circle-img {
+    border-radius: 50%;
+    border: 7px solid #fff;
+    margin: auto;
+    width: 10rem;
+    height: 10rem;
+}
+
+.bottom {
+    margin-top: 17rem;
+}
+
+.info {
+    font-family: Caveat;
+    margin: 20px 0;
+    color: #726a95;
+}
+
+.name {
+    font-family: Bahnschrift;
+    color: #351f39;
+}

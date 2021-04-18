@@ -1,0 +1,36 @@
+.section-title{
+    font-family: Caveat;
+    margin-top: 2rem;
+    /*padding-left: 1rem;*/
+    /*border-radius: 50%;*/
+    text-align: left;
+}
+
+.description {
+    text-align: justify;
+}
+
+.task-phrase {
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.exp-logo {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 5%;
+    margin: 0.5rem auto;
+    /*background-color: #dfe6e9;*/
+}
+
+.exp-cont {
+    text-align: left;
+    border: 1px solid;
+    border-radius: 25px;
+    margin-bottom: 0.5rem;
+    background-color: white;
+}
+
+.exp-name {
+    margin-top: 0.5rem;
+}

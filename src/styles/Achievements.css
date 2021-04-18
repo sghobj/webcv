@@ -1,0 +1,17 @@
+.section-title{
+    font-family: Caveat;
+    margin-top: 2rem;
+    padding-left: 1rem;
+    border-radius: 2%;
+    text-align: center;
+}
+.sec {
+    text-align: justify;
+    font-family: Bahnschrift;
+    font-size: large;
+}
+
+.desc {
+    text-align: justify;
+    font-family: Bahnschrift;
+}

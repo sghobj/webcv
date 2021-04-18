@@ -1,0 +1,24 @@
+.about-title{
+    font-family: Caveat;
+    margin-top: 2rem;
+    padding-left: 1rem;
+    text-align: center;
+}
+
+.profileImg {
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+
+}
+
+.cont {
+    border-style: none;
+}
+
+.row-class{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+

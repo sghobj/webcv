@@ -1,0 +1,32 @@
+.section-title{
+    font-family: Caveat;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-left: 1rem;
+    /*border-radius: 50%;*/
+    text-align: left;
+}
+
+.uni-logo {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 5%;
+    margin: 0.5rem auto;
+    background-color: white;
+}
+
+.education-row{
+    border: #282c34;
+}
+
+.edu-cont {
+    text-align: left;
+    border: 1px solid;
+    border-radius: 25px;
+    margin-bottom: 0.5rem;
+    background-color: white;
+}
+
+.inst-name {
+    margin-top: 0.5rem;
+}
