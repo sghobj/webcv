@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="553e9900-c09b-4fbd-bb36-e522a0040f25" name="Default Changelist" comment="" />
+    <list default="true" id="553e9900-c09b-4fbd-bb36-e522a0040f25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +37,7 @@
       <recent name="E:\Th Complete 2020 Web Development Bootcamp\Web Development\webcv\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Th Complete 2020 Web Development Bootcamp\Web Development\webcv\src" />
       <recent name="E:\Th Complete 2020 Web Development Bootcamp\Web Development\webcv" />
       <recent name="E:\Th Complete 2020 Web Development Bootcamp\Web Development\webcv\public" />
     </key>
@@ -44,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618784050367</updated>
-      <workItem from="1618784053680" duration="7061000" />
+      <workItem from="1618784053680" duration="7374000" />
     </task>
     <servers />
   </component>
