@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="553e9900-c09b-4fbd-bb36-e522a0040f25" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +34,8 @@
       <recent name="E:\Th Complete 2020 Web Development Bootcamp\Web Development\webcv\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Th Complete 2020 Web Development Bootcamp\Web Development\webcv" />
       <recent name="E:\Th Complete 2020 Web Development Bootcamp\Web Development\webcv\public" />
+      <recent name="E:\Th Complete 2020 Web Development Bootcamp\Web Development\webcv" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618784050367</updated>
-      <workItem from="1618784053680" duration="5113000" />
+      <workItem from="1618784053680" duration="6684000" />
     </task>
     <servers />
   </component>
